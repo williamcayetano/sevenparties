@@ -1,0 +1,21 @@
+body { 
+  background-color: #000000;
+  color: white;
+}
+h2 {
+  text-align: center;
+  font-family:"Lucida Console"
+}
+.logo_image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+}
+.red {
+  color: red;
+}
+.grey_color {
+  color: #666666;
+  font-size: 10px;
+}
